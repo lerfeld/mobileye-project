@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0caf5589-42e4-472b-bb0e-a08b37a74f70" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1gTVnF37wu1qDMM8NmWH25rRsgy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../mobileye project1" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\לימודים\projectim\mobileye project\code\script" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="pytest in run_attention.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/script" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/script/run_attention.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest in run_attention.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0caf5589-42e4-472b-bb0e-a08b37a74f70" name="Default Changelist" comment="" />
+      <created>1598138734049</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598138734049</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="462" y="106" key="FileChooserDialogImpl" timestamp="1598139476627">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598139476627" />
+    <state width="1345" height="233" key="GridCell.Tab.0.bottom" timestamp="1598139478317">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="233" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598139478317" />
+    <state width="1345" height="233" key="GridCell.Tab.0.center" timestamp="1598139478317">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="233" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598139478317" />
+    <state width="1345" height="233" key="GridCell.Tab.0.left" timestamp="1598139478317">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="233" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598139478317" />
+    <state width="1345" height="233" key="GridCell.Tab.0.right" timestamp="1598139478317">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="233" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598139478317" />
+  </component>
+</project>
