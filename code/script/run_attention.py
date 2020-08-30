@@ -37,7 +37,7 @@ def non_max_suppression(dim, result, c_image, color):
             max_coord = np.argmax(result[i:i + dim, j:j + dim])
             local_max = np.amax(result[i:i + dim, j:j + dim])
             
-            if local_max > 100:
+            if 120 < local_max:
                 coord_x.append(max_coord // dim + i)
                 coord_y.append(max_coord % dim + j)
                 c_image[max_coord // dim + i, max_coord % dim + j] = color
