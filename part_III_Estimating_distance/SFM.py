@@ -73,7 +73,7 @@ def decompose(EM):
 
 # rotate the points - pts using R
 def rotate(pts, R):
-    ones = np.ones((3, 1), int)
+    ones = np.ones((len(pts[:, 0]), 1), int)‏
     rotate_mat = np.dot(R, (np.hstack([pts, ones])).T)
 
     return (rotate_mat[:2]/rotate_mat[2]).T
